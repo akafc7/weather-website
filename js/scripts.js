@@ -1,5 +1,4 @@
-require('dotenv').config();
-const apiKey = 'fe8934a5acd38a496607d1acb7fe554';
+const apiKey = 'fe89384a5acd38a496607d1acb7fe554';
 const apiCountryURL = 'https://countryflagsapi.com/png/';
 const apiUnsplash = 'https://source.unsplash.com/1600x900/?';
 
